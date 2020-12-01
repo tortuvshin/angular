@@ -581,6 +581,14 @@ To learn more, see [Lifecycle Hooks](guide/lifecycle-hooks).
 
 {@a M}
 
+{@a microsyntax}
+
+## microsyntax
+
+The Angular microsyntax lets you configure a directive in a compact, friendly string. The microsyntax parser translates that string into attributes on the <ng-template>.
+  
+To learn more, see [Microsyntax](guide/structural-directives#microsyntax) section of the [Structural Directives](guide/structural-directives) guide.
+
 {@a module}
 
 ## module
@@ -592,7 +600,6 @@ In JavaScript (ECMAScript), each file is a module and all objects defined in the
 Angular ships as a collection of JavaScript modules (also called libraries). Each Angular library name begins with the `@angular` prefix. Install Angular libraries with the [npm package manager](https://docs.npmjs.com/getting-started/what-is-npm) and import parts of them with JavaScript `import` declarations.
 
 Compare to [NgModule](#ngmodule).
-
 
 {@a N}
 
